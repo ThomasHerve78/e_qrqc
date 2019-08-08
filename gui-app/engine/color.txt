@@ -1,0 +1,3 @@
+ blackdaylist=['red', 'red', 'red', 'white', 'black', 'black', 'white', 'white', 'black', 'black', 'white', 'white',
+         'white', 'white', 'white', 'black', 'black', 'white', 'white', 'white', 'white', 'white', 'black', 'black',
+         'white', 'white', 'white', 'white', 'black', 'black', 'black']

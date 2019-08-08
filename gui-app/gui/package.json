@@ -1,0 +1,19 @@
+{
+  "name": "qrqc",
+  "version": "0.1.0",
+  "description": "digital qrqc board",
+  "author": "thomas herve",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^5.0.8"
+  },
+  "dependencies": {
+    "electron-photon": "^1.1.6",
+    "path": "^0.12.7",
+    "python-shell": "^1.0.8"
+  }
+}
